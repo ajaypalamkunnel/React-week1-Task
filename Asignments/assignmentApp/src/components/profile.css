@@ -1,0 +1,9 @@
+.profile-card{
+    width: 400px;
+    height: 150px;
+    background-color: rgb(5, 102, 105);
+    border: '1px solid #ccc';
+    border-radius: 10px;
+    padding-top: 4px;
+    margin-top: 5px;
+}
